@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Elementor Test Extension - Robin
+ * Plugin Name: EL Test Extension - Robin
  * Description: Custom Elementor extension.
  * Plugin URI:  https://wpdeveloper.net/
  * Version:     1.0.0
