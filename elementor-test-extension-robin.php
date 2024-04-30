@@ -19,7 +19,7 @@ if (!defined('ABSPATH')) {
  *
  * The main class that initiates and runs the plugin.
  *
- * @since 1.0.2
+ * @since 1.0.3
  */
 final class Elementor_Test_Extension
 {
